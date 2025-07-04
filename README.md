@@ -75,9 +75,11 @@ Data Science & ML
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek2316&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhishek2316/abhishek2316/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilmughal786/aadilmughal786/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadilmughal786/aadilmughal786/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilmughal786/aadilmughal786/output/github-contribution-grid-snake.svg">
+</picture>
 Note: To enable the snake animation, you'll need to set up a GitHub Action. See the setup instructions below.
 🤝 Let's Connect
 <p align="center">
