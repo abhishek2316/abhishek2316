@@ -1,6 +1,6 @@
 Hi there, I'm Abhishek Kumar 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Java+%7C+React+%7C+Node.js+Enthusiast;Building+scalable+web+applications;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+%7C+React+%7C+Node.js+Enthusiast;Software+Engineer+%7C+Full+Stack+Developer;Building+scalable+web+applications;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishek2316&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -30,12 +30,14 @@ Frontend Development
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 </p>
 Databases
 <p align="left">
@@ -76,9 +78,9 @@ Data Science & ML
 </div>
 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilmughal786/aadilmughal786/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadilmughal786/aadilmughal786/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilmughal786/aadilmughal786/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek2316/abhishek2316/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek2316/abhishek2316/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek2316/abhishek2316/output/github-contribution-grid-snake.svg">
 </picture>
 Note: To enable the snake animation, you'll need to set up a GitHub Action. See the setup instructions below.
 🤝 Let's Connect
