@@ -18,7 +18,7 @@ I'm a passionate Software Engineer from India with a strong foundation in full-s
 - 💡 Interested in **System Design**, **Data Structures & Algorithms**, and **Backend Architecture**
 - 🎯 Goal: Building impactful software that solves real-world problems
 - 📫 How to reach me: **abhiishek.dev@gmail.com**
-- ⚡ Fun fact: I believe clean code is not just about functionality—it's about crafting art that other developers can appreciate!
+- ⚡ Fun fact: Git is my best frenemy!
 
 ## 🛠️ Tech Stack
 
